@@ -18,3 +18,5 @@ Pre-sets filters on the quickbar to:
 8.  Electric Mining Drill
 9.  Stone Furnace
 10. Poison Capsule
+
+Changes the names of inserters, underground belts and a few other entities to be more humorous.
