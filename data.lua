@@ -1,4 +1,5 @@
 require("prototypes.recipes")
+require("prototypes.technology")
 
 -- Lighting
 data.raw["player"]["player"].light =
