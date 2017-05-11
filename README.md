@@ -25,13 +25,15 @@ Changes the names of inserters, underground belts and a few other entities to be
 
 \*	
 -- Personal Equipment
-		iron-axe x 5
-    firearm-magazine x 50
-    Burner Mining Drill x 10
-    Stone Furnace x 10
-    Poison Capsules x 20
-    
+
++iron-axe x 5
++firearm-magazine x 50
++Burner Mining Drill x 10
++Stone Furnace x 10
++Poison Capsules x 20
+ 
+ 
 -- Resources
-    50 each of coal, iron plates, copper plates, and stone.
++50 each of coal, iron plates, copper plates, and stone.
     
 \**Not sure this is needed any longer, due to changes in 0.15
