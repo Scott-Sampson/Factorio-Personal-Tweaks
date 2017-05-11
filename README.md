@@ -23,4 +23,4 @@ Pre-sets filters on the quickbar to:
 
 Changes the names of inserters, underground belts and a few other entities to be more humorous.
 
-*\*Not sure this is needed any longer, due to changes in 0.15
+*Not sure this is needed any longer, due to changes in 0.15
