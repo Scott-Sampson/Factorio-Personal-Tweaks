@@ -38,4 +38,4 @@ Changes the names of inserters, underground belts and a few other entities to be
 <li>50 each of coal, iron plates, copper plates, and stone.</li>
 </ul>
     
-\**Not sure this is needed any longer, due to changes in 0.15
+\**Not sure this is needed any longer, due to changes in 0.15 will experiment and possibly remove...
