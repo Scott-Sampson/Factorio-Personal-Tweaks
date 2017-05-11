@@ -3,11 +3,11 @@ Personal game tweaks for Factorio 0.15.x
 
 Basic Starting resources*, more light, long reach and build, larger inventory, bigger stack sizes.
 
-Changes ingredients for concrete to use iron sticks instead of iron ore. (Makes more sense to me)
-Changes ingredients for Rails to use stone bricks instead of raw stone. (Convenience)
+Changes ingredients for concrete to use iron sticks instead of iron ore. (Makes more sense to me)<br>
+Changes ingredients for Rails to use stone bricks instead of raw stone. (Convenience)<br>
 Changes technology recipe for Logistic System to use only Science packs 1,2, and 3 (removing "high tech" and "production" pack requirements).
 
-Force-removes all decorations from map (except those added by the "bottleneck" mod)**
+Force-removes all decorations from map (except those added by the "bottleneck" mod)**<br><br>
 
 Pre-sets filters on the quickbar to:
 1.  Yellow Belt
