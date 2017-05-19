@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "title": "Personal Tweaks",
   "author": "Scott Sampson",
-  "homepage": "https://github.com/Scott-Sampson/Factorio-Personal-Tweaks/"
+  "homepage": "https://github.com/Scott-Sampson/Factorio-Personal-Tweaks/",
   "description": "Gameplay tweaks for Factorio",
   "factorio_version":"0.15",
   "dependencies": ["base >= 0.15.0"]
