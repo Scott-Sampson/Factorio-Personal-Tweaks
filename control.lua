@@ -64,5 +64,6 @@ script.on_event(defines.events.on_player_created, function(event)
 		player.insert{name="iron-plate", count=50}
 		player.insert{name="copper-plate", count=50}
 		player.insert{name="stone", count=50}
+		player.insert{name="science-pack-1", count=10} -- Allows immediate research of Automation
 	end
 )
